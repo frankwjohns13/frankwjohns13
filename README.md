@@ -35,7 +35,7 @@ Dedicated public safety professional with over 10 years of military service and 
 - 📧 Frank.W.Johns13@gmail.com
 - 📱 (352) 207-1468
 - [LinkedIn](https://www.linkedin.com/in/frank-w-johns)
-- [Personal Portfolio](https://YOURUSERNAME.github.io)  <!-- Update once live -->
+- [Personal Portfolio](https://frankwjohns13.github.io)  <!-- Update once live -->
 <!-- - [Resume PDF](link-to-resume.pdf) -->
 
 ---
