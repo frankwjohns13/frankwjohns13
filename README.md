@@ -2,7 +2,7 @@
 
 **U.S. Navy Veteran | Law Enforcement Professional | Cybersecurity Student | CompTIA Certified**
 
-Dedicated public safety professional with 10+ years of military service and 20+ years in law enforcement. Currently pursuing a **Bachelor of Science in Cybersecurity and Information Assurance** at Western Governors University while applying my CompTIA certifications and hands-on IT experience.
+**Dedicated public safety professional** with over 10 years of U.S. Navy service and 20+ years in law enforcement. Currently pursuing a **Bachelor of Science in Cybersecurity and Information Assurance** at Western Governors University. Seeking to leverage my strong background in security operations, crisis intervention, and public service with my growing list of CompTIA certifications and hands-on IT experience to transition into roles in **Information Technology, Cybersecurity, and Information Assurance**.
 
 ## 🚀 Professional Highlights
 - **IT & Security Certifications**: CompTIA A+, CompTIA Network+, CompTIA Security+, CompTIA Project+, CompTIA IT Operations Specialist, CompTIA Secure Infrastructure Specialist + TestOut Linux, PC Pro, Routing & Switching, Security, and Server Pro
